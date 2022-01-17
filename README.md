@@ -1,3 +1,21 @@
+#api-github-dio
+Consumindo a api do github para trazer os dados do usuário e seus repositórios.
+Projeto feito pelo bootcamp Eduzz da Digital Innovation One
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
