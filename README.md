@@ -1,7 +1,12 @@
-#api-github-dio
-Consumindo a api do github para trazer os dados do usuário e seus repositórios.
+# React app com api do github
+Aplicação react consumindo a api do github para trazer os dados do usuário e seus repositórios.
 Projeto feito pelo bootcamp Eduzz da Digital Innovation One
-
+<br>
+<br>
+![snapshot](https://user-images.githubusercontent.com/88121566/156941412-3103f318-238c-4fa4-8686-0ca2986a003d.png)
+<br>
+<br>
+<br>
 
 
 
